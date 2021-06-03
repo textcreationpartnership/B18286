@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for daily holy living, by D. Burgess minister of the gospel.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18286</idno><idno type="EEBO-CITATION">99885369</idno>
+  <idno type="VID">201298</idno>
+  <idno type="EEBO-PROQUEST">2248537027</idno>
+  
+            <idno type="STC">Wing B5703</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[25]</idno>
+            <idno type="STC">ESTC R222951</idno>
+            <idno type="PROQUEST">ocm99885369</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885369e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201298)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for daily holy living, by D. Burgess minister of the gospel.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside, near Mercers Chapel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201298:1"/>
+            <head>Directions for Daily Holy Living, by D. Burgess Minister of the Gospel.</head>
+            <p>D. 1. <hi>LImit your sleeping hours.</hi> Let them not be as many as brutish <hi>Sense</hi> demandeth. Let <hi>Rea<g ref="char:EOLhyphen"/>son</hi> fit their number to your Health and La<g ref="char:EOLhyphen"/>bour. Your <hi>Motion</hi> is not by the Rule of Religion, if your <hi>Rest</hi> be not so, <hi>Psa.</hi> 139.18. <hi>I awake, that I may be still with thee.</hi> So, some Learned read it.</p>
+            <p>D. 2. <hi>Consecrate your waking thoughts.</hi> Let your God have those first Fruits. He always Loved the first of all things. The <hi>first Fruits,</hi> and <hi>first Born,</hi> under the Law, were his. Present Him with these, every morning. Thoughts are inward Speeches. Let God hear Himself first spoken of by you, still. It will argue that He <hi>is</hi> your Beloved, and it will make Him <hi>more</hi> so. Love makes Thoughtful; and Thoughtfulness makes Love. A Pot<g ref="char:EOLhyphen"/>ter is known by his Vessels, and a Heart by its Thoughts; and of all Thoughts, by its first in the morning, and last at night. <hi>My voice shalt thou hear in the morning, O Lord!</hi> Psal. 5.3.</p>
+            <p>D. 3. <hi>Regulate your Bodily Dresses.</hi> Long Dresses be<g ref="char:EOLhyphen"/>wray large Consciences, if no worse. He that duly pre<g ref="char:EOLhyphen"/>fers his Soul above his Body, would rather go like the wild <hi>Indians,</hi> than dress like some <hi>Londoners.</hi> The Hebrew word <hi>Beged,</hi> signifies <hi>Cloathing</hi> and <hi>Covenant-breaking.</hi> God seems to have taught thereby, that the Cloaths on our backs should humble us for the sin of our first Pa<g ref="char:EOLhyphen"/>rents and Persons. But if they do not so; and if out<g ref="char:EOLhyphen"/>ward Adorning be that which employs our early hour, and severe thoughts, it will be dearly paid for in our dy<g ref="char:EOLhyphen"/>ing hours, with tormenting thoughts, 1 <hi>Pet.</hi> 3.3. <hi>Whose adorning let it not be that outward adorning.</hi>
+            </p>
+            <p>D. 4. <hi>Time well your Closet and Family Worship.</hi> They be not the same things <hi>in</hi> season, and <hi>out</hi> of season. Let the <hi>Word</hi> be read; one verse rather than none; and <hi>Prayer</hi> be made; the shortest, rather than none; both by your selves alone, and with your Families. If it may be, wor<g ref="char:EOLhyphen"/>ship first by your selves. But, needlesly tie not your selves, being God hath not bound you unto such and such hours. Still do, as you verily think is most for Edi<g ref="char:EOLhyphen"/>fication, <hi>Mat. 6.6. Enter into thy closet, and when thou hast shut the door, pray to thy Father.</hi> Josh. 24.15. <hi>As for me and my House, we will s<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e the Lord.</hi>
+            </p>
+            <p>D. 5. <hi>Sanctifie your worldly Business.</hi> Nothing is your Business, but that which God your Master sets you about. Dare not then do any thing, but that whereto you can entitle Him. Nor dare you to do it for any other chief end, but to please Him. When you do WHAT He sets you, and supremely BECAUSE He sets it, and wills that you do it; knowing and hoping for his Direction in it, and Blessing of it; you then sanctifie it: Then HOLINESS TO THE LORD is written upon it, whatever it be, 1 <hi>Cor.</hi> 10.31. <hi>Whether ye Eat or Drink, or</hi> WHATSOEVER <hi>ye do, do all to the glory of God.</hi>
+            </p>
+            <p>D. 6. <hi>Moderate your Pains in your Callings.</hi> Pains must be; Sweat, is required. But by <hi>Reason</hi> and <hi>Religion</hi> they must be measured. God's Laws be all Just and Good. <hi>Drones</hi> that will not work must not eat. He that is a <hi>sluggard in his work,</hi> is branded as <hi>Brother of the Prodigal waster,</hi> Prov. 18.9. <hi>Drudges,</hi> of whose Labour there is no end, and who bereave their Souls of good; who use themselves worse than God allows Oxen to be used; <hi>Treading out the Corn, and muzzling themselves;</hi> these are branded by the Spirit of God, as inconsiderate, absurd, and self-destroying fools, <hi>Eccles.</hi> 4.8. <hi>Diligent hands</hi> have the promise of being made <hi>rich:</hi> That is, Hands that be neither <hi>Drones</hi> nor <hi>Drudges,</hi> Prov. 10.4. <hi>The hand of the diligent maketh rich.</hi>
+            </p>
+            <p>D. 7. <hi>Strengthen your guards against your strongest Ene<g ref="char:EOLhyphen"/>mies.</hi> Sin, is our Enemy; even <hi>One</hi> and <hi>All.</hi> God <hi>hates</hi> no<g ref="char:EOLhyphen"/>thing but sin; and man can be <hi>hurt</hi> by nothing but sin. Sin's name is <hi>Legion;</hi> for it is <hi>many.</hi> And of the <hi>many,</hi> there is some <hi>one</hi> or other in every man, that <hi>has more power</hi> than all the rest. That <hi>gives strength</hi> unto all the rest. And, being mortified, all the rest are mortified. There be also beside that KING-sin in their Souls, some kind of PEER-sins, which, of all, next unto the KING-sin, are by far the most dangerous. The KING-sin is (al<g ref="char:EOLhyphen"/>way or mostly) your <hi>Temperamental</hi> sin; the sin of your Constitution. The PEER-sins, be the <hi>Radical ones,</hi> of Sensuality, Unbelief, Hypocrisie; and the <hi>way-laying ones,</hi> whereunto Temptations will every day meet us in our Company and Business. You can never have any but a falfe Peace, till you can say, as <hi>Psal.</hi> 18.23. <hi>I am upright before the Lord, I keep my self from my own iniquity.</hi> Doctor <hi>Bates,</hi> his little Book upon that Text is a <hi>Light</hi> and <hi>Lamp,</hi> a <hi>Rod,</hi> and a <hi>Staff.</hi>
+            </p>
+            <p>D. 8. <hi>Govern your Thoughts and your Words.</hi> Let not your <hi>Minds</hi> or <hi>Tongues</hi> be unbridled, and run whither they will. You are in your Shops and your Business very often, alone; <hi>Reverence your Conscience,</hi> and dare not in the presence of God's Vicegerent to suffer a sinful or useless self discourse. But talk with your selves of <hi>great and good Subjects,</hi> and with designs of <hi>great and good Effects</hi> upon your hearts by them. When you are in company, consider your Tongue's need of Government: All its words be <hi>Meat</hi> or <hi>Poison</hi> to your Hearers, and your selves: They do still holily make for <hi>Edification,</hi> or sub<g ref="char:EOLhyphen"/>serviently for <hi>Recreation,</hi> or contrarily for <hi>Corruption,</hi> Pro. 24.9. <hi>The</hi> THOUGHT <hi>of foolishness is sin,</hi> Mat. 12.36. <hi>Of every idle</hi> WORD <hi>that men shall speak, they shall give ac<g ref="char:EOLhyphen"/>count in the day of Judgment.</hi>
+            </p>
+            <p>D. 9. <hi>Preserve the Prerogative of your King.</hi> I mean, of your Love. Your Love of God, of Angels, of Men: That is your Principal Grace; your Prince. <hi>Keep that Prince on horse-back;</hi> let that ride, and reign, and rule you in all you do. Let not any thing lower, move and sway you more, in any of your ways. Remember still it is Love that is the highest improvement of our <hi>Faculties,</hi> the End of all other <hi>Graces,</hi> the Excellency in all other <hi>Graces.</hi> For this is the <hi>Word</hi> of God given, for this is the <hi>Spirit</hi> gi<g ref="char:EOLhyphen"/>ven, for this was his <hi>Son</hi> given, that we might Love! Never please your selves therefore with any Quality or any external Duty, without Love, internal Love, ani<g ref="char:EOLhyphen"/>mating, enlivening, exalting it, <hi>Rom.</hi> 13.10. <hi>Love is the fulfilling of the Law.</hi>
+            </p>
+            <p>D. 10. <hi>Value highly your Time.</hi> Do so really, in more than empty pretence. And do so apparently also. Appa<g ref="char:EOLhyphen"/>rently unto your own Conscience, Family, Friends, Neigh<g ref="char:EOLhyphen"/>bours. Tell all in the Language of Practice, you account them as the worst of Thieves, who rob you of your Time. Say as Mr. <hi>Fowler, My Time and Strength is God's, and he shall have it.</hi> And, as Mr. <hi>Calvin, Christ shall not find me idle.</hi> Esteem every <hi>small moiety</hi> of Time, as you do of Gold. Expend <hi>none at all,</hi> of it, but in mowing and whetting your Sithe; in very Duty, and necessary Re<g ref="char:EOLhyphen"/>creation. Buy <hi>a great deal of it;</hi> I mean, part with much vain pleasure, secular profit, fools fav<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and kindness, and good men's too sometimes, to save your Time. To save it from doing of <hi>evil,</hi> and from doing of <hi>lesser good,</hi> when you may do <hi>greater.</hi> That is indeed, as we are bid, <hi>Eph.</hi> 5.16. <hi>To Redeem the Time.</hi>
+            </p>
+            <p>D. 11. <hi>Exercise Christian Temperance in all your Meals. Brutes,</hi> are more temperate in use of food, than many men. And, may I not say, that some <hi>unregenerate men</hi> are more temperate, than here and there a well reputed Christian appears? This is a shame. Excess in Meat and Drink, is not the least fruitful sin against Body or Soul. To be abstemious and sparing for Health's sake, is to be as wise as Brute creatures, and some men graceless. Ab<g ref="char:EOLhyphen"/>stinence, for Conscience sake; of love to God &amp; Christ, to our own Souls and others; of faithfulness unto our Baptismal Engagement; this is Christian Temperance, <hi>Ezek.</hi> 16.49. <hi>Behold this was the sin of</hi> Sodom, <hi>Pride,</hi> FULNESS <hi>of</hi> BREAD, <hi>and abundance of</hi> IDLENESS <hi>was in her.</hi> Sin came in by eating; remember then <hi>Prov.</hi> 23.2. <hi>Put a knife to thy throat, if thou be a man given to Ap<g ref="char:EOLhyphen"/>petite.</hi> And, <hi>Be not desirous of Dainties; for they are deceit<g ref="char:EOLhyphen"/>ful meat.</hi> Rom. 8.13. <hi>If ye live after the flesh, ye shall die.</hi>
+            </p>
+            <p>D. 12. <hi>Hasten your Recoveries out of your wilful sins.</hi> For sins of <hi>unavoidable Infirmity,</hi> God threatens not <hi>Eternal</hi> Plagues, or <hi>Temporal</hi> Judgments on you. Sincere and con<g ref="char:EOLhyphen"/>stant Humiliation for them, is indeed <hi>necessary</hi> and <hi>natu<g ref="char:EOLhyphen"/>ral,</hi> to Lovers of God and Christ. But sins that are <hi>not of common and insuperable Infirmity,</hi> they make fearful breaches of your peace with God, and sore wounds in your Souls. They sadly lessen God's Love of Complacence in you, and your Love and all graces towards God. When you fall into these, dare not to lie one minute in them; <hi>Lament</hi> them presently, <hi>Confess</hi> them presently to God, and (if need be) unto man also. Repent, rent your hearts <hi>for them,</hi> and rent them also <hi>from them,</hi> without delay. Cry for the Balm of Christ's blood to be presently drop't into your wounds; and for the clean water of his Spirit to be presently poured on you. Cry mightily for <hi>Pardon</hi> of them, and <hi>Assistance</hi> against them. Every mi<g ref="char:EOLhyphen"/>nutes delay may cost you so many days, weeks &amp; months dolor &amp; anguish. Chosen delays may make so many <hi>Spira</hi>'s of you, for ought I know, <hi>Psa.</hi> 32.3. <hi>While I kept silence, i.e.</hi> would not confess my sin, <hi>my bones waxed old, i. e.</hi> I suf<g ref="char:EOLhyphen"/>fered dearly.</p>
+            <p>D. 13. <hi>Examine strictly your Relative Duty.</hi> Often say, What <hi>Subject</hi> am I? What <hi>Fellow-Subject?</hi> What <hi>Obser<g ref="char:EOLhyphen"/>ver of Magistrates and Ministers?</hi> What <hi>Friend</hi> am I? <hi>How do I carry it toward my Enemies?</hi> For a Christian can be no one's Enemy! as far as he is a Christian, he can<g ref="char:EOLhyphen"/>not. What <hi>Husband</hi> or <hi>Wife</hi> am I? What <hi>Parent</hi> or <hi>Child</hi> am I? What <hi>Master</hi> or <hi>Servant</hi> am I? What <hi>Superior,</hi> what <hi>Inferior,</hi> what <hi>Equal</hi> am I? Sincerity or Hypocrisie, is, for the most part, specially seen in these things, 2 <hi>Pet.</hi> 3.11. <hi>What manner of Persons ought ye to be in all holy Con<g ref="char:EOLhyphen"/>versations and Godlinesses. Psal.</hi> 119.6. <hi>Then shall I not be ashamed when I have respect unto all thy Commandments.</hi>
+            </p>
+            <p>D. 14. <hi>Repeat every Evening your double use of the</hi> WORD and PRAYER. I mean in your Closet and Family. Dare not for the gain of a Kingdom to omit it, of choice. Nor to perform it without greatest Seriousness, Willingness and Thankfulness. <hi>Psal.</hi> 55.17. <hi>Evening and Morning, and at Noon will I pray and cry aloud, and he shall hear my voice.</hi>
+            </p>
+            <p>D. 15. <hi>Repair every days Losses, and be chary of every days Gains.</hi> I mean your <hi>extraordinary</hi> ones. The Womb of one day brings forth huge <hi>Hindrances</hi> of Duty to God, to your selves, and to your Families. Ill <hi>Persons</hi> or <hi>Things</hi> obstruct your Solemnities. When they do so, consider and consult, and strain hard to make it up the next day. Read, Pray, Meditate, <hi>&amp;c.</hi> so much the more. Another day brings forth huge <hi>Helps.</hi> A <hi>Lecture,</hi> a <hi>Fast,</hi> or Pub<g ref="char:EOLhyphen"/>lick <hi>Thanksgiving,</hi> a <hi>Funeral Sermon,</hi> a <hi>meeting with some Servants of God of extraordinary Talents;</hi> apt to Teach, and forward so to do. When such a day comes, lay up, and lock up your Spiritual Gains. <hi>Rost what you take,</hi> as <hi>Solomon</hi> speaks; keep, feed on it, enjoy it. <hi>Eph.</hi> 5.16. <hi>Redeeming the time, because the days are evil. John</hi> second Epistle ver. 8. <hi>Look to your selves that we lose not those things that we have wrought, but may receive a full reward.</hi>
+            </p>
+            <p>D. 16. <hi>Improve both of the Holy Sacraments.</hi> Most la<g ref="char:EOLhyphen"/>mentably these are neglected among us! The God of all Grace, that hath condescended to extremity in the or<g ref="char:EOLhyphen"/>daining of them, awaken Ministers and People to bet<g ref="char:EOLhyphen"/>ter use of them! On Gods part they are <hi>Signs</hi> and <hi>Seils,</hi> on our part they are <hi>Bonds</hi> and <hi>Badges.</hi> Baptism and he Lords Supper, are the utmost confirmations God giveth us of his Promise to be our God; and the utmost we give of our Engagement to be his. Forget not this, nor vainly remember it. Plead with God for your Souls, his Signed, Sealed Promises unto you; to the expulsion of <hi>Distrust.</hi> And plead with your Souls for God, your Sa<g ref="char:EOLhyphen"/>cramental Bonds given unto him, and Badges of being his put upon you; to the Conquest of <hi>Disobedience.</hi> Sa<g ref="char:EOLhyphen"/>cramental Obligation is the chief Store-house and Ma<g ref="char:EOLhyphen"/>gazine to draw Armour from, in an Hour of Temptati<g ref="char:EOLhyphen"/>on. There is none like it. <hi>Rom.</hi> 6.1, 2, 3. <hi>What shall we say then? shall we continue in sin, that grace may abound? God forbid, How shall we that are dead to sin, live any lon<g ref="char:EOLhyphen"/>ger therein? Know ye not, that so many of us as were Bap<g ref="char:EOLhyphen"/>tized into Jesus Christ, were Baptized into his death?</hi> 1 <hi>Pet.</hi> 3.21. <hi>The like figure whereunto, even Baptism, doth also now save us, (not the putting away of the filth of the Flesh; but the answer of a good Conscience toward God) by the Resurrection of Jesus Christ.</hi> 1 <hi>Cor.</hi> 10.16, and 21. <hi>The Cup of Blessing which we bless, is it not the Communion of the Blood of Christ? The Bread which we break, is it not the Communion of the Body of Christ? Ye cannot drink the Cup of the Lord, and the Cup of Devils; ye cannot be partakers of the Lords Table, and of the Table of Devils.</hi>
+            </p>
+            <p>D. 17. <hi>Hear your selves daily your Catechism.</hi> I mean, the Summary of Religion, unto which you have attain<g ref="char:EOLhyphen"/>ed. There be several set down in Mr. <hi>Burgess</hi>'s <hi>Three Que<g ref="char:EOLhyphen"/>stions Resolved.</hi> I advise all, once a day to go over that which they have Learned, and can Remember. Let grown Christians ask and answer themselves, how they do in their Hearts BELIEVE each <hi>Article</hi> of the Apostles Creed; how they PRAY each <hi>Petition</hi> of the Lords Pray<g ref="char:EOLhyphen"/>er; how they PRACTISE each <hi>Commandment</hi> of both Ta<g ref="char:EOLhyphen"/>bles; how they are ENCOURAGED and ENGAGED unto all three; unto the Life of Holy Faith, Prayer and Practice, I mean, by their Holy <hi>Baptism</hi> and the <hi>Lords Table. Rom.</hi> 2.21. <hi>Thou which teachest another, teachest thou not thy self? Psal.</hi> 4.4. <hi>Commune with your own Heart. Psal.</hi> 16.7. <hi>My Reins instruct me.</hi>
+            </p>
+            <p>D. 18. <hi>Command your last Thoughts to be fit to be your last.</hi> When you compose you to sleep, suppose that you may die in that sleep. And if so, the God unto whom you must go in that death, is fit to be thought of in the en<g ref="char:EOLhyphen"/>trance to it. If not, it will be sweet in the Morning to review last thoughts of him at Night. Yea, and those Thoughts of Faith and Love, and Trust, at Night, will be generative of more of the same Spirit and Goodness in the Morning. <hi>Psal.</hi> 63.6. <hi>I remember thee on my Bed, and meditate of thee in the Night Watches.</hi>
+            </p>
+            <q>
+               <hi>He that in these things serveth Christ is acceptable to God and Approved of Men,</hi>
+               <bibl>Rom. 14.18.</bibl>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurst</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapside,</hi> near <hi>Mercers</hi> Chapel. 1690: 54.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
